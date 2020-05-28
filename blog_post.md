@@ -14,6 +14,7 @@ I had class at Epicodus today, and it was a _rough day_. I know I need to be pat
 2. Remind yourself it's alright to be bad at things
 3. get as much done as possible
 4. relax.
-
+5. brush teeth 
+6. make sure i get adequate sleep
 
 ![A picture of something cool](http://lorempixel.com/400/200/)
